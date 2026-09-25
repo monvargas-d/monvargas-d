@@ -1,6 +1,16 @@
-Mónica Carolina Vargas 
+Hola! mi nombre es Mónica 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Soy estudiante de la carrera Analista de Sistemas
 
-[![My Skills](https://skillicons.dev/iconsi=cs,py, visualstudio, github).].(https://skillicons.dev).
+Actualmente estoy trabajando con:
+
+DER, SQL SERVER, 
+
+Diagramas de Base de datos, clases, actividades, componentes
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,github,instagram,py,gmail,cpp,)](https://skillicons.dev)
+
+
 
